@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="com.example.ranisavira.haluih.sign">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/haluih"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        />
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round1"
+        android:layout_marginTop="5dp"
+        android:textColor="#fff"
+        android:text="SIGN IN"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round2"
+        android:layout_marginTop="7dp"
+        android:textColor="#d2c4b2"
+        android:text="SIGN UP"
+        android:textStyle="bold"/>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HALUIH</string>
+
+    <string name="app"><b>MIUI</b> CONCEPT</string>
+    <string name="app_desc">Aplikasi latihan layouting kelas SPNJ</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_fb">Sign up with <b>Facebook</b></string>
+    <string name="username">Username</string>
+
+
+    <string name="sign_up_2">Sign Up</string>
+    <string name="sign_in_2">Sign In</string>
+
+    <string name="nama"><i>Name</i></string>
+    <string name="email"><i>E-Mail</i></string>
+    <string name="password"><i>Your password</i></string>
+    <string name="havent">Don\'t have an account?</string>
+    <string name="haveAccount">Already have account?</string>
+</resources>
